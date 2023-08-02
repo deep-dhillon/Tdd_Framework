@@ -1,0 +1,9 @@
+<suite name="OrangeHRM">
+<test name="Regression" allow-return-values="true">
+<classes>
+<class name="testLayer.LoginTest"></class>
+
+</classes>
+
+</test>
+</suite>
